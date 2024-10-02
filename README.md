@@ -8,7 +8,8 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
+Runs the app in the development mode.\<img width="541" alt="Ekran Resmi 2024-10-03 00 05 19" src="https://github.com/user-attachments/assets/4c3498ca-c522-4b8c-afae-5d4cf0c3a098">
+
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
@@ -64,6 +65,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+https://github.com/user-attachments/assets/6857c08d-dcd5-4430-b542-219db2be8526
+
+
 
 ### `npm run build` fails to minify
 
